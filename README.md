@@ -1,8 +1,9 @@
-### Hi everyone 👋
+### Matilda Fröberg 👋 
+> _A very happy student_
 
-**Welcome to my GitHub** 🦖
-_A very happy student_
+**Välkommen till min GitHub** 🦖
 
-- 🌱 I’m currently learning **alot** about frontend development
-- 📫 How to reach me: mafr2109@student.miun.se
+
+- Här kommer jag att samla mina skolarbeten 👩‍🎓
+- För kontakt kan ni nå mig på mafr2109@student.miun.se 📧
 
